@@ -9,7 +9,7 @@
             {{$categorie->libelle}}
         </h2>
         <h3 class="p-5 text-gray-400 dark:text-gray-400 font-medium text-2xl text-center sm:text-left first-letter:capitalize">
-            Liste des jeux de cette catégorie
+            {{__('List of games in this category')}}
         </h3>
         <ul class="px-5">
             @foreach ($jeux as $jeu)

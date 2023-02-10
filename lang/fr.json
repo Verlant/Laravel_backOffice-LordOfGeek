@@ -32,5 +32,7 @@
     "Reset" : "Effacer",
     "Back" : "Retour",
     "Category" : "Catégorie",
-    "New tag" : "Nouvelle étiquette"
+    "New tag" : "Nouvelle étiquette",
+    "List of games in this category" : "Liste des jeux de cette catégorie",
+    "List of games in this tag" : "Liste des jeux de cette étiquette"
 }
